@@ -35,7 +35,7 @@ public class MavenITmng4338OptionalMojosTest
 
     public MavenITmng4338OptionalMojosTest()
     {
-        super( "[3.0,)" );
+        super( "[3.0,3.7.0)" );
     }
 
     /**
